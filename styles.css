@@ -1,0 +1,33 @@
+@charset "utf-8";
+body p nav {
+    background-color: rgba(197,28,31,1.00);
+}
+body h1 {
+    background-color: rgba(242,6,10,1.00);
+    color: rgba(14,0,0,1.00);
+    border-width: medium;
+}
+body em h2 {
+    background-color: rgba(78,62,0,0.89);
+}
+body ul {
+    border: medium solid rgba(0,0,0,1.00);
+    background-color: rgba(154,154,154,0.63);
+}
+body meta {
+}
+body h1 {
+}
+.navMenu {
+   font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+   font-size: large;
+   color: #FFFFFF;
+   font-style: normal;
+   text-align: center;
+   padding-top: 5px;
+   padding-right: 5px;
+   padding-bottom: 5px;
+   padding-left: 5px;
+   background-color:#1D1717;
+   height: 3.5rem;
+}

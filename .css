@@ -1,0 +1,6 @@
+@charset "utf-8";
+border {
+    border-width: medium;
+    background-color: rgba(220,0,3,1.00);
+    background-position: 5px 0%;
+}
